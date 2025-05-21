@@ -37,6 +37,72 @@ Welcome to my Python learning journey! This repository documents my weekly learn
 
 ---
 
+## 🗃️ Repo Structure
+
+python-learning-roadmap/
+│
+├── LICENSE                       # License file (MIT by default)
+├── README.md                     # Main overview of the repo
+├── Roadmap.md                    # Full weekly learning plan with projects
+├── learning-log.md               # Daily/weekly study log or reflection notes
+│
+├── .gitignore                    # Optional: ignore Python cache files, venv, etc.
+│
+├── week-01-fundamentals/
+│   ├── README.md                 # Project overview and explanation
+│   ├── greeting_app.py          # Personalized Greeting App
+│   ├── calculator.py            # Stretch project: calculator
+│   ├── temp_converter.py        # Stretch project: temp converter
+│   └── quiz_game.py             # Stretch project: quiz game
+│
+├── week-02-operators/
+│   ├── README.md                 # Project and notes
+│   ├── number_guess.py          # Main project
+│   ├── even_odd_checker.py      # Stretch
+│   ├── leap_year.py             # Stretch
+│   └── login_sim.py             # Stretch
+│
+├── week-03-loops/
+│   └── ...                      # Similar structure as above
+│
+├── week-04-functions/
+│   └── ...
+│
+├── week-05-modules/
+│   └── ...
+│
+├── week-06-oop/
+│   └── ...
+│
+├── week-07-intermediate/
+│   └── ...
+│
+├── week-08-libraries/
+│   └── ...
+│
+├── week-09-testing/
+│   └── ...
+│
+├── week-10-practices/
+│   └── ...
+│
+├── week-11-projects/
+│   └── ...
+│
+└── week-12-specialization/
+    ├── web-dev/
+    │   └── ...
+    ├── data-science/
+    │   └── ...
+    ├── automation/
+    │   └── ...
+    ├── gui/
+    │   └── ...
+    └── game-dev/
+        └── ...
+
+---
+
 ## 🧠 How I’m Learning
 
 Each week includes:
