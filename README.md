@@ -1,191 +1,81 @@
-# 🐍 Python Learning Roadmap with Projects
+# 🐍 Python Learning Journey – 12-Week Roadmap
 
-Welcome to my hands-on Python learning journey!  
-This repo follows a 12-week structured roadmap to master Python fundamentals and apply every concept through a mini-project. Each week focuses on a specific topic and includes at least one related project.
+Welcome to my Python learning journey! This repository documents my weekly learning, hands-on projects, and progress toward mastering Python.
 
----
-
-## 🚀 Goals
-
-- Learn Python by building real, concept-focused mini-projects.
-- Practice writing clean, well-documented code.
-- Build a GitHub portfolio of practical Python scripts.
-- Track progress week by week.
+📅 **Goal**: Study for 30 minutes every day  
+🧠 **Tracking Tool**: [My Notion Dashboard](https://www.notion.so/YOUR-NOTION-LINK)  
+🗃 **Structure**: Each week has its own folder with code and documentation
 
 ---
 
-## ✅ Weekly Tracker & Projects
+## 📘 Weekly Progress Overview
 
-### 📘 Week 1: Python Fundamentals
-- [ ] Install Python and an IDE (VSCode / PyCharm / Thonny)
-- [ ] Learn how to run Python files and use the REPL
-- [ ] Understand syntax & indentation
-- [ ] Use `print()`, `input()`, and comments
-- [ ] Learn variables & basic data types: `int`, `float`, `str`, `bool`
-- [ ] Type conversion and `type()` function
-
-#### 🛠️ Projects:
-- [ ] `mad_libs.py` – Mad Libs Game using variables and input
-- [ ] `age_calculator.py` – Calculate age based on birth year input
-
----
-
-### 🧠 Week 2: Operators & Control Flow
-- [ ] Arithmetic, comparison, logical, assignment, identity, membership operators
-- [ ] `if`, `elif`, `else` statements
-- [ ] Nested conditionals and truthy/falsy values
-- [ ] Ternary expressions
-
-#### 🛠️ Projects:
-- [ ] `guess_number.py` – Number guessing game
-- [ ] `login_checker.py` – Simple user validation script
+| Week | Topic                     | Status      | Project Folder            |
+|------|---------------------------|-------------|----------------------------|
+| ✅ 1 | Fundamentals              | Completed   | [Week 01 - Fundamentals](./week-01-fundamentals) |
+| 🔄 2 | Operators & Control Flow | In Progress | [Week 02 - Operators](./week-02-operators)       |
+| ⏳ 3 | Loops & Collections       | Upcoming    | [Week 03 - Loops](./week-03-loops)              |
+| ⏳ 4 | Functions                 | Upcoming    | [Week 04 - Functions](./week-04-functions)      |
+| ⏳ 5 | Modules & Files           | Upcoming    | [Week 05 - Modules](./week-05-modules)          |
+| ⏳ 6 | OOP                       | Upcoming    | [Week 06 - OOP](./week-06-oop)                  |
+| ⏳ 7 | Intermediate Python       | Upcoming    | [Week 07 - Intermediate](./week-07-intermediate)|
+| ⏳ 8 | Standard Libraries        | Upcoming    | [Week 08 - Libraries](./week-08-libraries)      |
+| ⏳ 9 | Env & Testing             | Upcoming    | [Week 09 - Testing](./week-09-testing)          |
+| ⏳10 | Pythonic Practices        | Upcoming    | [Week 10 - Best Practices](./week-10-practices) |
+| ⏳11 | Build Projects            | Upcoming    | [Week 11 - Projects](./week-11-projects)        |
+| ⏳12+| Specialization            | Upcoming    | [Week 12+ - Specialization](./week-12-specialization) |
 
 ---
 
-### 🔁 Week 3: Loops & Collections
-- [ ] `for`, `while` loops
-- [ ] `range()`, `break`, `continue`, `pass`
-- [ ] Lists, tuples, sets, dictionaries (operations and methods)
+## 📂 Repo Content
 
-#### 🛠️ Projects:
-- [ ] `multiplication_table.py` – Generator using loops
-- [ ] `grocery_list.py` – CLI CRUD app using lists/dictionaries
-
----
-
-### 🧩 Week 4: Functions
-- [ ] Define and call functions
-- [ ] Parameters, return values
-- [ ] `*args`, `**kwargs`, scope
-- [ ] Lambda functions
-
-#### 🛠️ Projects:
-- [ ] `calculator.py` – Function-based calculator
-- [ ] `prime_checker.py` – Check if a number is prime
+- `README.md`: You're reading it – the main summary and progress tracker
+- `Roadmap.md`: Week-by-week breakdown of topics and projects
+- `learning-log.md`: Daily or weekly reflection notes
+- `LICENSE`: Open-source license (MIT by default)
+- `Week #`: Weeks folder with code and documentation
 
 ---
 
-### 📦 Week 5: Modules, Files & Exceptions
-- [ ] Import built-in modules (`math`, `random`, `datetime`, etc.)
-- [ ] Use `pip` and install external packages
-- [ ] Create and import your own modules
-- [ ] File handling (`.txt`, `.csv`, `.json`)
-- [ ] Error handling with `try`/`except`
+## 🧠 How I’m Learning
 
-#### 🛠️ Projects:
-- [ ] `expense_tracker.py` – Budget app with file I/O
-- [ ] `password_vault.py` – Store passwords (basic encryption optional)
+Each week includes:
+- 📺 Watching curated YouTube videos
+- ✍️ Taking notes in [Notion](https://www.notion.so/YOUR-LINK)
+- 🧪 Building projects & stretch exercises
+- ✅ Tracking goals with GitHub Issues and Commits
 
 ---
 
-### 🧱 Week 6: Object-Oriented Programming
-- [ ] Classes, `__init__`, instance/class variables
-- [ ] Inheritance, `super()`
-- [ ] Encapsulation, polymorphism
-- [ ] Special methods like `__str__`, `__repr__`
+## 🧪 Projects
 
-#### 🛠️ Projects:
-- [ ] `bank_account.py` – Simulate a bank account
-- [ ] `library_system.py` – Manage books and users
+Each weekly folder contains:
+- `README.md` – explanation of the project
+- `.py` files – working code
+- Additional files (data, input/output examples, etc.)
 
 ---
 
-### 🧮 Week 7: Intermediate Python
-- [ ] Comprehensions: list, set, dict
-- [ ] `iter()`, `next()`, generators
-- [ ] `map()`, `filter()`, `reduce()`
-- [ ] `zip()`, `enumerate()`, `any()`, `all()`
+## 📌 Specialization Options (Post Week 11)
 
-#### 🛠️ Projects:
-- [ ] `data_transformer.py` – Process data using comprehensions
-- [ ] `custom_iterator.py` – Build a custom iterator or generator
-
----
-
-### 🧰 Week 8: Standard Libraries
-- [ ] `os`, `sys`, `shutil`, `pathlib`
-- [ ] `time`, `calendar`, `datetime`
-- [ ] `re` (regex)
-- [ ] `collections`: `Counter`, `defaultdict`, etc.
-
-#### 🛠️ Projects:
-- [ ] `file_organizer.py` – Script to organize files into folders
-- [ ] `regex_finder.py` – Extract emails or phone numbers from text
+Depending on interest, I’ll choose one or more of the following:
+- 🔹 Web Development (Flask/Django)
+- 🔹 Data Science (pandas, matplotlib, scikit-learn)
+- 🔹 Automation/Scripting (os, schedule, pyautogui)
+- 🔹 GUI Development (tkinter, PyQt)
+- 🔹 Game Development (pygame)
 
 ---
 
-### 🧪 Week 9: Virtual Environments & Testing
-- [ ] Use `venv`, `requirements.txt`
-- [ ] Basic testing with `assert`
-- [ ] Unit testing with `unittest`, intro to `pytest`
+## 🔮 Upcoming!
 
-#### 🛠️ Projects:
-- [ ] `test_calculator.py` – Unit tests for a calculator module
-- [ ] `todo_manager.py` – Modular to-do CLI with tests
+I will continue updating this repository with new details, insights, and experiences I acquire in the future.
 
 ---
 
-### 🧼 Week 10: Pythonic Practices
-- [ ] PEP8, Zen of Python (`import this`)
-- [ ] `with` statement, else in loops
-- [ ] Walrus operator (`:=`), unpacking
+## 📈 Let’s Build in Public!
 
-#### 🛠️ Projects:
-- [ ] `clean_code_examples.py` – Examples of Pythonic vs unpythonic code
-- [ ] Refactor older projects to be more Pythonic
+I’m building this journey publicly to stay accountable and help others learning Python. Feel free to fork, star, or contribute ideas!
 
 ---
-
-### 🚧 Week 11: Build Projects
-- [ ] To-Do CLI App
-- [ ] File Manager Script
-- [ ] Timer or Alarm App
-- [ ] Weather App using an API
-- [ ] JSON-based CRUD script
-
----
-
-### 🎯 Week 12+: Specialization (Pick 1–2 paths)
-
-#### 🔹 Web Development
-- Flask/Django + HTML templates
-- REST API
-
-#### 🔹 Data Science
-- Jupyter, pandas, matplotlib, ML basics
-
-#### 🔹 Automation
-- Schedule scripts, selenium, pyautogui
-
-#### 🔹 GUI Development
-- `tkinter`, `PyQt`
-
-#### 🔹 Game Development
-- Build a game with `pygame`
-
----
-
-## 🗂️ Repository Structure
-
-/week01-fundamentals/
-
-mad_libs.py
-
-age_calculator.py
-/week02-control-flow/
-
-guess_number.py
-...
-README.md
-learning-log.md
-
----
-
-## 🧠 Learning Log
-Check `learning-log.md` for weekly summaries, notes, and reflections.
-
----
-
-## ✅ License
-MIT — use this structure to start your own journey too!
-
+**Shreesh**
