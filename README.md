@@ -3,7 +3,7 @@
 Welcome to my Python learning journey! This repository documents my weekly learning, hands-on projects, and progress toward mastering Python.
 
 📅 **Goal**: Study for 30 minutes every day  
-🧠 **Tracking Tool**: [My Notion Dashboard](https://www.notion.so/YOUR-NOTION-LINK)  
+🧠 **Tracking Tool**: [My Notion Dashboard](https://www.notion.so/Python-1f9f41288a83815bb0c5d9d9abe78667?pvs=4)  
 🗃 **Structure**: Each week has its own folder with code and documentation
 
 ---
