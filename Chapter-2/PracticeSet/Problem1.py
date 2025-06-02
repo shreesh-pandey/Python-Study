@@ -6,7 +6,7 @@
 a = input("Enter the 1st no.") 
 b = input("Enter the 2nd no.")
 
-# print(a+b) If we did this, the output will be ab (concatinated).
+# print(a+b) If we did this, the output will be 'ab' (concatinated).
 
 # Ex: If a = 21 & b = 1, print(a+b) will return 211.
 # Reason: Input function considers all inputs as "Strings"
