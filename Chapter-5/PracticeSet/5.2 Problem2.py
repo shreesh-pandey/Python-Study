@@ -1,4 +1,5 @@
 # Q.2: Write a program to create a dictionary of Hindi words with values as their English translation. Provide user with an option to look it up! Use a different approach.
+
 # In the program that we created in 5.1, we can only input one word and it's meaning in the dictionary.
 # However, we can make it better by allowing it to use multiple inputs by using for loop.
 # For that, lets start with creating the dictionary.
