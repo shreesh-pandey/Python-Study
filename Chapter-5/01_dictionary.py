@@ -34,3 +34,8 @@ print(my_dict)
 
 for key, value in my_dict.items():
     print(key, "→", value)
+    
+# Output:
+# name → Shreesh
+# age → 30
+# country → India
