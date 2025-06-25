@@ -20,3 +20,9 @@ for i in range(1, 4):
         print("❌ Wrong guess! Try again.")
         if i == 3:
             print("😔 You've used all your chances. Better luck next time!")
+
+# Future tasks:
+# Turn this into a random number guessing game.
+# Let the user play again (using a loop).
+# Add hints (e.g., “Too high” or “Too low”).
+# Track how many attempts the user needed.
