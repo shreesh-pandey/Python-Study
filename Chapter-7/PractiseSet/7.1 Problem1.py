@@ -1,4 +1,4 @@
-# Print the multiplication table of a given number from 1 to 10 using a for loop, and then print it in reverse order (from 10 to 1).
+# Q.1: Print the multiplication table of a given number from 1 to 10 using a for loop, and then print it in reverse order (from 10 to 1).
 
 # Lets start with asking the user for the number.
 number = int(input("Please enter the number for multiplication table: "))
