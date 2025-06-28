@@ -1,4 +1,4 @@
-# 3. Write a program that asks the user to enter a number and checks whether it is a prime number or not.
+# Q.3. Write a program that asks the user to enter a number and checks whether it is a prime number or not.
         # - If it's not a prime, display the reason (e.g. the first factor that proves it’s not prime).
         # - If it’s a prime, print a success message.
         # - Also, handle edge cases like numbers less than 2.
