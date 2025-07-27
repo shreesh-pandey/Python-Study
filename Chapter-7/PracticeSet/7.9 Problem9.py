@@ -41,6 +41,10 @@ for i in range(1, n+1):
         print("*")
 print("")
 
+
+# -------------------------- -------------------------- -------------------------- #
+
+
 # Deep Dive
 
 # Another way to write this code in a single line is by using f-string
@@ -51,7 +55,11 @@ print("")
 # Like this:
 # print(f"*{' ' * (n - 2)}*")
 
-# Additionally, we can add a check to handle small values like when n < 2:
+
+# -------------------------- -------------------------- -------------------------- #
+
+
+# # Additionally, we can add a check to handle small values like when n < 2:
 # if n < 2:
 #     print("Size should be at least 2 to form a hollow square.")
 # else:
