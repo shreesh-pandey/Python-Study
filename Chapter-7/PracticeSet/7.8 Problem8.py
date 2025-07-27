@@ -20,4 +20,14 @@ for i in range(2, 101, 2):
 # Because we are directly looping over even numbers, avoiding the unnecessary 'if i % 2 == 0 check'.
 
 
+# -------------------------- -------------------------- -------------------------- #
 
+
+# There is one more way to improve this code by using .join()
+# It will give us a 'leaner Output'
+
+print(", ".join(str(i) for i in range(2, 101, 2)))
+
+# Output:
+# Prints all even numbers in a single line, separated by commas. Like this:
+# 2, 4, 6, 8, ..., 100
