@@ -1,4 +1,4 @@
-# Q.9: 9. Write a program to print the following star patterns based on user input `n`:
+# Q.9: Write a program to print the following star patterns based on user input `n`:
     # - A left-aligned triangle
         
     #     *
