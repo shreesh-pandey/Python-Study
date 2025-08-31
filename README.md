@@ -1,4 +1,4 @@
-# 🐍 Python Learning Journey – 12-Week Roadmap
+# <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> Python Learning Journey – 12-Week Roadmap
 
 Welcome to my Python learning journey! This repository documents my weekly learning, hands-on projects, and progress toward mastering Python.
 
