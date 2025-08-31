@@ -1,5 +1,3 @@
-
-
 # List of fruits
 fruits = ["apple", "banana", "cherry"]
 
